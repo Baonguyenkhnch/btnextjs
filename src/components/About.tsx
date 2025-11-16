@@ -19,7 +19,7 @@ const About = () => {
                     <div className='mt-[40px] flex flex-col gap-5'>
                         <span className='text-sm'>ABOUT ME</span>
                         <h1 className='font-bold text-4xl'>PERSONAL DETAILS</h1>
-                        <p className='text-lg'>Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                        <p className='text-lg'>Hi, I’m Bảo. I’ve always been fascinated by the little things in life that we often take for granted—from a simple drink like Coca-Cola to everyday routines that shape our world. I enjoy observing these small details, reflecting on how ordinary moments can be surprisingly meaningful, and sharing the stories they tell. Curiosity and creativity are what drive me, and I love discovering the hidden joys in daily life.</p>
                         <div>
                             <Button className='bg-btnBg rounded-none px-[30px] uppercase hover:shadow-btnHoverShadow transition-all duration-300 delay-0'>
                                 <Link href="https://github.com/Baonguyenkhnch" target='_blank'>
